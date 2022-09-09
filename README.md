@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/preneur_saurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preneur_saurabh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saurabh-entrepreneur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh entrepreneur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saurabh-entrepreneur-6a3626227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh entrepreneur" height="30" width="40" /></a>
 <a href="https://fb.com/jadavsauravyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jadavsauravyadav" height="30" width="40" /></a>
 <a href="https://instagram.com/_saurabh_entrepreneur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saurabh_entrepreneur" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/musicaddictedperson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="musicaddictedperson" height="30" width="40" /></a>
