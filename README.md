@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm MrSaurabhBabu</h1>
+<h1 align="center">Hi 👋, I'm Mr Saurabh Babu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsaurabhbabu&label=Profile%20views&color=0e75b6&style=flat" alt="mrsaurabhbabu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsaurabhbabu" alt="mrsaurabhbabu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/preneur_saurabh" target="blank"><img src="https://img.shields.io/twitter/follow/preneur_saurabh?logo=twitter&style=for-the-badge" alt="preneur_saurabh" /></a> </p>
 
 - 🔭 I’m currently working on **Problem Solving Skills and Web Designing.**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
+
+- 📝 I regularly write articles on [https://bit.ly/3T6E862](https://bit.ly/3T6E862)
 
 - 💬 Ask me about **C Language | HTML & CSS**
 
@@ -20,9 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/preneur_saurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preneur_saurabh" height="30" width="40" /></a>
-<a href="https://fb.com/jadavsauravyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jadavsauravyadav" height="30" width="40" /></a>
-<a href="https://instagram.com/@_saurabh_entrpreneur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_saurabh_entrpreneur" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/music addicted person" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="music addicted person" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://bit.ly/3tvlkng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/3tvlkng" height="30" width="40" /></a>
+<a href="https://fb.com/https://bit.ly/3rsxgtb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://bit.ly/3rsxgtb" height="30" width="40" /></a>
+<a href="https://instagram.com/https://bit.ly/3buboum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://bit.ly/3buboum" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://bit.ly/3x5xrcz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://bit.ly/3x5xrcz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsaurabhbabu&show_icons=true&locale=en" alt="mrsaurabhbabu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsaurabhbabu&" alt="mrsaurabhbabu" /></p>
+
+
+
