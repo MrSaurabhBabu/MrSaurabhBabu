@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mr Saurabh Babu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/preneur_saurabh" target="blank"><img src="https://img.shields.io/twitter/follow/preneur_saurabh?logo=twitter&style=for-the-badge" alt="preneur_saurabh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Mr_Saurabh_Babu" target="blank"><img src="https://img.shields.io/twitter/follow/preneur_saurabh?logo=twitter&style=for-the-badge" alt="preneur_saurabh" /></a> </p>
 
 - 🔭 I’m currently working on **Problem Solving Skills and Web Designing.**
 
