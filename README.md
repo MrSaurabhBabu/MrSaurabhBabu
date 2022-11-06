@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mr Saurabh Babu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/Mr_Saurabh_Babu" target="blank"><img src="https://img.shields.io/twitter/follow/preneur_saurabh?logo=twitter&style=for-the-badge" alt="preneur_saurabh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mr_saurabh_babu" target="blank"><img src="https://img.shields.io/twitter/follow/mr_saurabh_babu?logo=twitter&style=for-the-badge" alt="mr_saurabh_babu" /></a> </p>
 
 - 🔭 I’m currently working on **Problem Solving Skills and Web Designing.**
 
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/Mr_Saurabh_Babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preneur_saurabh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mr-saurabh-yadav-6a3626227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh entrepreneur" height="30" width="40" /></a>
 <a href="https://fb.com/jadavsauravyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jadavsauravyadav" height="30" width="40" /></a>
-<a href="https://instagram.com/mr__saurabh__babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saurabh_entrepreneur" height="30" width="40" /></a>
+<a href="https://instagram.com/mr__saurabh__yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__saurabh__yadav" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/musicaddictedperson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="musicaddictedperson" height="30" width="40" /></a>
 </p>
 
