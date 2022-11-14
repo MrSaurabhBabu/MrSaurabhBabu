@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 📝 I regularly write articles on [https://bit.ly/3TuZsRr] (https://bit.ly/3TuZsRr)
+- 📝 I regularly write articles on (https://bit.ly/3TuZsRr)
 
 - 💬 Ask me about **C Language | HTML & CSS**
 
