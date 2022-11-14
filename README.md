@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 📝 I regularly write articles on [https://bit.ly/3T6E862](https://bit.ly/3T6E862)
+- 📝 I regularly write articles on [https://bit.ly/3TuZsRr] (https://bit.ly/3TuZsRr)
 
 - 💬 Ask me about **C Language | HTML & CSS**
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Mr_Saurabh_Babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preneur_saurabh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mr-saurabh-yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh entrepreneur" height="30" width="40" /></a>
+<a href="https://twitter.com/Mr_Saurabh_Babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_saurabh_babu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mr-saurabh-yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mr Saurabh Yadav" height="30" width="40" /></a>
 <a href="https://fb.com/jadavsauravyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jadavsauravyadav" height="30" width="40" /></a>
-<a href="https://instagram.com/mr__saurabh__yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__saurabh__yadav" height="30" width="40" /></a>
+<a href="https://instagram.com/mr__saurabh__babu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__saurabh__babu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/musicaddictedperson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="musicaddictedperson" height="30" width="40" /></a>
 </p>
 
